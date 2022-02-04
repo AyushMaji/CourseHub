@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136418982911",
+    "project_id": "coursehub-75ffa",
+    "storage_bucket": "coursehub-75ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136418982911:android:843df422141eccf3b3c5ca",
+        "android_client_info": {
+          "package_name": "com.coursehubayush.ayushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136418982911-29bef2gsdea866gr5orrp66sfm42ct79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coursehubayush.ayushapp",
+            "certificate_hash": "ac94c226de83c69264020429e4b64c402bcc49b6"
+          }
+        },
+        {
+          "client_id": "136418982911-jk0mgnb8cu26s3jqcg1tqeufccsg293v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrn3gi1Gg4Q1J4LjQIcD1PQ3Wgj5GZZNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136418982911-jk0mgnb8cu26s3jqcg1tqeufccsg293v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
